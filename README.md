@@ -15,6 +15,3 @@ This project is created for learning and demonstrating the GitHub Pull Request w
 ## Tech Used
 - Git
 - GitHub
-
----
-⭐ If you like this repository, consider giving it a star!
